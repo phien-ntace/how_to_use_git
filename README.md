@@ -22,3 +22,6 @@ git commit -m "First Commit"
 9/ Push to server
 git remote add origin https://github.com/phien-ntace/how_to_use_git.git
 git push -u origin master
+
+10/ Push any change
+git push origin master
