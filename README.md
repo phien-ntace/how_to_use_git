@@ -23,5 +23,9 @@
 ### git remote add origin https://github.com/phien-ntace/how_to_use_git.git
 ### git push -u origin master
 
-# 10/ Push any change
+# 10/ Push any change after
 ### git push origin master
+
+# 11/ Get log and status
+### git log
+### git status
