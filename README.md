@@ -1,6 +1,6 @@
 # 1/ Initial information
-### git config --global user.name "Phxxx Ngxxxx"
-### git config --global user.email "phxxx.ntxxx@gmail.com"
+### git config --global user.name "xxx xxx"
+### git config --global user.email "xxx@gmail.com"
 
 # 2/ Check information
 ### git config --list
