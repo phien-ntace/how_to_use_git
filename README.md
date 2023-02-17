@@ -8,7 +8,7 @@
 # 3/ Create local repository
 ### git init code_folder_git
 
-# 4/ Copy current prorject to  code_folder_git
+# 4/ Copy current project to code_folder_git
 
 # 5/ Add code into git
 ### git add .
