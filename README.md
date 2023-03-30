@@ -34,5 +34,5 @@
 ### Create branch: git branch branch_name
 ### Check current branch: git branch
 ### Switch to branch name: git checkout branch_name
-### Push branch: git push --set-upstream branch_name
+### Push branch first time: git push --set-upstream branch_name
 ### Merge branch to master: git checkout master + git merge branch_name
