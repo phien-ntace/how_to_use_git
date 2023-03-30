@@ -10,22 +10,29 @@
 
 # 4/ Copy current project to code_folder_git
 
-# 5/ Add code into git
+# 5/ Add code and commit
 ### git add .
-
-# 6/ Commit
 ### git commit -m "First Commit"
 
+# 6/ Create repository in github
 
-# 8/ Create repository in github
-
-# 9/ Push to server
+# 7/ Push to server
 ### git remote add origin https://github.com/phien-ntace/how_to_use_git.git
 ### git push -u origin master
 
-# 10/ Push any change after
+# 8/ Push any change after
 ### git push origin master
 
-# 11/ Get log and status
+# 9/ Get log and status
 ### git log
 ### git status
+
+# 10/ Update code
+### git pull or git fetch + git merge
+
+# 11/ Branch
+### Create branch: git branch branch_name
+### Check branch: git branch
+### Switch to branch name: git checkout branch_name
+### Push branch: git push --set-upstream branch_name
+### Merge branch to master: git checkout master + git merge branch_name
