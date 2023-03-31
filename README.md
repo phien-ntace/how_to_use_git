@@ -18,7 +18,7 @@
 
 # 7/ Push to server
 ### git remote add origin https://github.com/phien-ntace/how_to_use_git.git
-### git push -u origin master
+### git push -u origin master (origin: default name of repository on your PC)
 
 # 8/ Push any change after
 ### git push origin master
