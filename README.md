@@ -11,7 +11,7 @@
 # 4/ Copy current project to code_folder_git
 
 # 5/ Add code and commit
-### git add .
+### git add . 
 ### git commit -m "First Commit"
 
 # 6/ Create repository in github
@@ -21,16 +21,21 @@
 ### git push -u origin master (origin: default name of repository on your PC)
 
 # 8/ Push any change after
+### git add . (Commit all changed files)
 ### git push origin master
 
-# 9/ Get log and status
+# 9/ Delete a file
+### git rm $file_name
+### git push origin master
+
+# 10/ Get log and status
 ### git log
 ### git status
 
-# 10/ Update code
+# 11/ Update code
 ### git pull or git fetch + git merge
 
-# 11/ Branch
+# 12/ Branch
 ### Create branch: git branch branch_name
 ### Check current branch: git branch
 ### Switch to branch name: git checkout branch_name
