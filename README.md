@@ -32,8 +32,8 @@
 #### If conflict happens during pull (both modified same file/line):
 - Git will show CONFLICT and stop.
 - You must open the file and resolve the conflict manually.
-- After resolving:
-*`git add <conflicted_file>`*  
+- After resolving:  
+#####git add <conflicted_file>
 *`git rebase --continue`*  
 *`git push origin main`*  
  
